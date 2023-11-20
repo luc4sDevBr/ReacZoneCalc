@@ -5,6 +5,7 @@ import useMouseEvent from "../../Hookes/useMouseEvent/useMouseEvent";
 
 function Mostrador() {
     const tela = useMouseEvent();
+   
     
     return (<div>
         <div
